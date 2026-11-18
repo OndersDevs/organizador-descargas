@@ -1,0 +1,5 @@
+print(f"Exponenciación 2 elevado a 4 = {2**4}")
+print(f"Módulo o resto 22 % 8 = {22 % 8}")
+print("División de enteros 22 // 8 = " + str(22 // 8))
+print("División 22 / 8 = " + str(22 / 8))
+print("Y el resto ya te lo sabes.")
